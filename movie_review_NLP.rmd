@@ -1,0 +1,14 @@
+---
+title: "Predicting Movies Scores from Reviews"
+author: "registea"
+date: "07/10/2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+
