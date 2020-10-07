@@ -11,4 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
+This notebook is focussed on applying Natural Language Processing (NLP) to Amazon movie reviews. The aim is to utilise the customer review to predict how the customer rated the film. 
 
+The dataset that has been provided has been taken from Kaggle and can be found [here](https://www.kaggle.com/dm4006/amazon-movie-reviews).
+
+Keras as a high-level interface to tensorflow will be used as the deep learning framework. 
